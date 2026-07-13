@@ -1,0 +1,9 @@
+torch
+transformers
+faiss-cpu
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+tqdm
